@@ -24,7 +24,7 @@
     "split": {
         "enabled": true,
         "serial": {
-            "pin": "GP0",
+            "pin": "GP9",
             "driver": "vendor"
         },
         "matrix_pins": {
